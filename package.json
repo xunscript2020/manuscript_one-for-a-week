@@ -1,0 +1,19 @@
+{
+  "name": "manuscript_one-for-a-week",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xunscript2020/manuscript_one-for-a-week.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xunscript2020/manuscript_one-for-a-week/issues"
+  },
+  "homepage": "https://github.com/xunscript2020/manuscript_one-for-a-week#readme"
+}
